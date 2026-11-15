@@ -36,7 +36,7 @@ Standardize headers and values before comparing or analyzing CSV files.
 
 ## Offline Edition — sales temporarily paused
 
-The existing Payhip listing has been hidden while a corrective update completes browser and delivery checks. The product title is unchanged. The planned price for the corrected release is SAR 99, one-time; the listing remains hidden until release checks pass. Do not treat the earlier preview as proof that the replacement download is released.
+The existing Payhip listing has been hidden while a corrective update completes browser and delivery checks. The product title is unchanged. The planned price for the corrected release is USD $29, one-time; the listing remains hidden until release checks pass. Do not treat the earlier preview as proof that the replacement download is released.
 
 The update addresses CSV formula-like text, malformed input, ambiguous columns, invalid dates and stale exports. The private candidate passed 356 automated assertions; real-browser/download acceptance is still pending. Existing license scope remains internal use by one organization.
 
