@@ -34,10 +34,12 @@ Standardize headers and values before comparing or analyzing CSV files.
 
 ![CSV cleaner example normalizing 1,250.50 to 1250.50](assets/accounting-csv-cleaner.jpg)
 
-## Buy the Offline Edition
+## Offline Edition — sales temporarily paused
 
-[Buy on Payhip — SAR 149](https://payhip.com/b/XnqJK) · One-time purchase
+The existing Payhip listing has been hidden while a corrective update completes browser and delivery checks. The product title and SAR 149 price have not changed. Do not treat the earlier preview as proof that the replacement download is released.
 
-The ZIP includes four offline browser tools, built-in examples, a quick-start guide, and a license for internal use by one organization. For questions, contact [saudiready.ai@gmail.com](mailto:saudiready.ai@gmail.com).
+The update addresses CSV formula-like text, malformed input, ambiguous columns, invalid dates and stale exports. The private candidate passed 356 automated assertions; real-browser/download acceptance is still pending. Existing license scope remains internal use by one organization.
+
+The eventual ZIP contains four offline browser tools, synthetic examples, instructions and the existing license. Source development files remain private and are not part of this offline offer. Questions: [saudiready.ai@gmail.com](mailto:saudiready.ai@gmail.com).
 
 This public showcase contains preview materials only. Review flagged rows against the original records before acting.
