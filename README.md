@@ -38,7 +38,7 @@ Standardize headers and values before comparing or analyzing CSV files.
 
 The existing Payhip listing has been hidden while a corrective update completes browser and delivery checks. The product title is unchanged. The planned price for the corrected release is USD $29, one-time; the listing remains hidden until release checks pass. Do not treat the earlier preview as proof that the replacement download is released.
 
-The update addresses CSV formula-like text, malformed input, ambiguous columns, invalid dates and stale exports. The private candidate passed 356 automated assertions; real-browser/download acceptance is still pending. Existing license scope remains internal use by one organization.
+The update addresses CSV formula-like text, malformed input, ambiguous columns, invalid dates and stale exports. The 1.1-RC2 private candidate passed 442 automated assertions, including order-independent exact matching and ambiguous-reference regression checks. Amount-only suggestions keep unresolved ledger rows visible; they are not confirmed matches or unique financial exposure. Real-browser/download acceptance is still pending. Existing license scope remains internal use by one organization.
 
 The eventual ZIP contains four offline browser tools, synthetic examples, instructions and the existing license. Source development files remain private and are not part of this offline offer. Questions: [saudiready.ai@gmail.com](mailto:saudiready.ai@gmail.com).
 
