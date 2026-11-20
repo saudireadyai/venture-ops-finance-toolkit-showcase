@@ -4,7 +4,7 @@
 
 Four browser-based CSV tools for accounts payable teams. See where supplier statements and ledgers disagree, flag possible duplicate invoices, review missing fields and unusual values, and standardize CSV exports.
 
-[Try the free demo](https://venture-ops-finance-toolkit-qz7otz.v2.appdeploy.ai/) · [Watch the 40-second walkthrough on YouTube](https://youtu.be/A6QtMoRlpBE)
+[**Buy the Offline Edition on Payhip — USD $29**](https://payhip.com/b/XnqJK) · [Try the free demo](https://venture-ops-finance-toolkit-qz7otz.v2.appdeploy.ai/) · [Watch the 40-second walkthrough on YouTube](https://youtu.be/A6QtMoRlpBE)
 
 ## See the four tools in action
 
